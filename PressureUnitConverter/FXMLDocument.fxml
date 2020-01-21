@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Anton Adamovich
+-  Prof. Charles Herbert - CSCI-112 - Community College of Philadelphia (CCP)
+-  Created: 5-4-2017 - Last Edited: 5-5-2017
+-  Assignment 8
+-  Description: FXML markup of formatting of GUI objects, such as labels, text
+-   fields, and the "Convert" button
+-  Resources:
+-   The Java Platform API Specification:
+-   http://docs.oracle.com/javase/8/docs/api/overview-summary.html
+-   Oracle Java FX Tutorials and Documentation:
+-   http://docs.oracle.com/javase/8/javafx/get-started-tutorial/get_start_apps.htm
+-->
+
+<?import java.net.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane fx:controller="pressureunitconverter.FXMLController" 
+    xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10"
+    styleClass="root">
+    <!-- Padding for edges of GridPane -->
+    <padding>
+        <Insets top="25" right="25" bottom="25" left="25"/>
+    </padding>
+    
+    <Text id="title" text="PSI Pressure Unit Converter" 
+        GridPane.columnIndex="0" GridPane.rowIndex="0"
+        GridPane.columnSpan="2"/>
+    <!-- PSI related label and text field, both spanned for emphasis -->
+    <Label text="PSI (Pounds per Square Inch):"
+        GridPane.columnIndex="0" GridPane.rowIndex="1"
+        GridPane.columnSpan="2"/>
+    <TextField fx:id="psi"
+        GridPane.columnIndex="0" GridPane.rowIndex="2"
+        GridPane.columnSpan="2"/>
+    <!-- bar related label and text field -->
+    <Label text="bar:"
+        GridPane.columnIndex="0" GridPane.rowIndex="4"/>
+    <TextField fx:id="bar" 
+        GridPane.columnIndex="0" GridPane.rowIndex="5"/>
+    <!-- mmHg related label and text field -->
+    <Label text="Milligrams of Mercury (mmHg):"
+        GridPane.columnIndex="1" GridPane.rowIndex="4"/>
+    <TextField fx:id="mmhg" 
+        GridPane.columnIndex="1" GridPane.rowIndex="5"/>
+    <!-- CSS Stylesheet import -->
+    <stylesheets>
+        <URL value="@PressureUnits.css" />
+    </stylesheets>
+    <!-- "Convert" button, placed close to PSI entry text box -->
+    <HBox spacing="10" alignment="top_right" 
+        GridPane.columnIndex="1" GridPane.rowIndex="1">
+        <Button text="Convert"     
+        onAction="#handleConversionAction"/>
+    </HBox>
+</GridPane>

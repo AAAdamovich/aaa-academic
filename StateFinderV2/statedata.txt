@@ -1,0 +1,150 @@
+Alabama
+Montgomery
+4858979
+Alaska
+Juneau
+738432
+Arizona
+Phoenix
+6828065
+Arkansas
+Little Rock
+2978204
+California
+Sacramento
+39144818
+Colorado
+Denver
+5456574
+Connecticut
+Hartford
+3590886
+Delaware
+Dover
+945934
+Florida
+Tallahassee
+20271272
+Georgia
+Atlanta
+10214860
+Hawaii
+Honolulu
+1431603
+Idaho
+Boise
+1654930
+Illinois
+Springfield
+12859995
+Indiana
+Indianapolis
+6619680
+Iowa
+Des Moines
+3123899
+Kansas
+Topeka
+2911641
+Kentucky
+Frankfort
+4425092
+Louisiana
+Baton Rouge
+4670724
+Maine
+Augusta
+1329328
+Maryland
+Annapolis
+6006401
+Massachusetts
+Boston
+6794422
+Michigan
+Lansing
+9922576
+Minnesota
+Saint Paul
+5489594
+Mississippi
+Jackson
+2992333
+Missouri
+Jefferson City
+6083672
+Montana
+Helena
+1032949
+Nebraska
+Lincoln
+1896190
+Nevada
+Carson City
+2890845
+New Hampshire
+Concord
+1330608
+New Jersey
+Trenton
+8958013
+New Mexico
+Santa Fe
+2085109
+New York
+Albany
+19795791
+North Carolina
+Raleigh
+10042802
+North Dakota
+Bismarck
+756927
+Ohio
+Columbus
+11613423
+Oklahoma
+Oklahoma City
+3911338
+Oregon
+Salem
+4028977
+Pennsylvania
+Harrisburg
+12802503
+Rhode Island
+Providence
+1056298
+South Carolina
+Columbia
+4896146
+South Dakota
+Pierre
+858469
+Tennessee
+Nashville
+6600299
+Texas
+Austin
+27469114
+Utah
+Salt Lake City
+2995919
+Vermont
+Montpelier
+626042
+Virginia
+Richmond
+8382993
+Washington
+Olympia
+7170351
+West Virginia
+Charleston
+1844128
+Wisconsin
+Madison
+5771337
+Wyoming
+Cheyenne
+586107

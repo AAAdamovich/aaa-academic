@@ -1,0 +1,2679 @@
+08001
+Alloway
+Salem County
+08002
+Cherry Hill
+Camden County
+08003
+Cherry Hill
+Camden County
+08004
+Atco
+Camden County
+08005
+Barnegat
+Ocean County
+08006
+Barnegat Light
+Ocean County
+08007
+Barrington
+Camden County
+08008
+Long Beach Township
+Ocean County
+08008
+Beach Haven
+Ocean County
+08008
+Harvey Cedars
+Ocean County
+08008
+Long Beach
+Ocean County
+08008
+Ship Bottom
+Ocean County
+08008
+Surf City
+Ocean County
+08009
+Berlin
+Camden County
+08010
+Beverly
+Burlington County
+08010
+Edgewater Park
+Burlington County
+08011
+Birmingham
+Burlington County
+08012
+Turnersville
+Camden County
+08012
+Blackwood
+Camden County
+08014
+Bridgeport
+Gloucester County
+08015
+Browns Mills
+Burlington County
+08016
+Burlington City
+Burlington County
+08016
+Burlington Township
+Burlington County
+08016
+Burlington
+Burlington County
+08018
+Cedar Brook
+Camden County
+08019
+Chatsworth
+Burlington County
+08020
+Clarksboro
+Gloucester County
+08021
+Clementon
+Camden County
+08021
+Laurel Springs
+Camden County
+08021
+Lindenwold
+Camden County
+08021
+Pine Hill
+Camden County
+08021
+Pine Valley
+Camden County
+08022
+Columbus
+Burlington County
+08023
+Deepwater
+Salem County
+08025
+Ewan
+Gloucester County
+08026
+Gibbsboro
+Camden County
+08027
+Gibbstown
+Gloucester County
+08028
+Glassboro
+Gloucester County
+08029
+Glendora
+Camden County
+08030
+Brooklawn
+Camden County
+08030
+Gloucester City
+Camden County
+08031
+Bellmawr
+Camden County
+08032
+Grenloch
+Gloucester County
+08033
+Haddonfield
+Camden County
+08034
+Cherry Hill
+Camden County
+08035
+Haddon Heights
+Camden County
+08036
+Hainesport Township
+Burlington County
+08036
+Hainesport
+Burlington County
+08037
+Batsto
+Atlantic County
+08037
+Hammonton
+Atlantic County
+08038
+Hancocks Bridge
+Salem County
+08039
+Harrisonville
+Gloucester County
+08041
+Jobstown
+Burlington County
+08042
+Juliustown
+Burlington County
+08043
+Kirkwood
+Camden County
+08043
+Kirkwood Voorhees
+Camden County
+08043
+Voorhees
+Camden County
+08045
+Lawnside
+Camden County
+08046
+Willingboro
+Burlington County
+08048
+Lumberton
+Burlington County
+08049
+Magnolia
+Camden County
+08050
+Stafford Township
+Ocean County
+08050
+Manahawkin
+Ocean County
+08051
+Mantua
+Gloucester County
+08052
+Maple Shade
+Burlington County
+08053
+Marlton
+Burlington County
+08053
+Evesham
+Burlington County
+08054
+Mount Laurel
+Burlington County
+08055
+Medford
+Burlington County
+08055
+Medford Lakes
+Burlington County
+08056
+Mickleton
+Gloucester County
+08057
+Moorestown
+Burlington County
+08059
+Mount Ephraim
+Camden County
+08060
+Eastampton Township
+Burlington County
+08060
+Eastampton
+Burlington County
+08060
+Mount Holly
+Burlington County
+08060
+Westampton
+Burlington County
+08061
+Mount Royal
+Gloucester County
+08062
+Mullica Hill
+Gloucester County
+08063
+National Park
+Gloucester County
+08064
+New Lisbon
+Burlington County
+08065
+Palmyra
+Burlington County
+08066
+Paulsboro
+Gloucester County
+08067
+Pedricktown
+Salem County
+08068
+Pemberton
+Burlington County
+08069
+Carneys Point
+Salem County
+08069
+Penns Grove
+Salem County
+08070
+Pennsville
+Salem County
+08071
+Pitman
+Gloucester County
+08072
+Quinton
+Salem County
+08073
+Rancocas
+Burlington County
+08074
+Richwood
+Gloucester County
+08075
+Delanco
+Burlington County
+08075
+Delran
+Burlington County
+08075
+Riverside
+Burlington County
+08076
+Riverton
+Burlington County
+08077
+Cinnaminson
+Burlington County
+08077
+Riverton
+Burlington County
+08078
+Runnemede
+Camden County
+08079
+Mannington
+Salem County
+08079
+Salem
+Salem County
+08080
+Sewell
+Gloucester County
+08081
+Sicklerville
+Camden County
+08083
+Hi Nella
+Camden County
+08083
+Somerdale
+Camden County
+08084
+Stratford
+Camden County
+08085
+Logan Township
+Gloucester County
+08085
+Woolwich Township
+Gloucester County
+08085
+Swedesboro
+Gloucester County
+08086
+Thorofare
+Gloucester County
+08087
+Little Egg Harbor Twp
+Ocean County
+08087
+Mystic Islands
+Ocean County
+08087
+Tuckerton
+Ocean County
+08088
+Vincentown
+Burlington County
+08088
+Shamong
+Burlington County
+08088
+Southampton
+Burlington County
+08088
+Tabernacle
+Burlington County
+08089
+Waterford Works
+Camden County
+08090
+Wenonah
+Gloucester County
+08091
+Berlin Township
+Camden County
+08091
+West Berlin
+Camden County
+08092
+West Creek
+Ocean County
+08093
+Westville
+Gloucester County
+08094
+Williamstown
+Gloucester County
+08095
+Winslow
+Camden County
+08096
+Blackwood Terrace
+Gloucester County
+08096
+Deptford
+Gloucester County
+08096
+Woodbury
+Gloucester County
+08097
+Woodbury
+Gloucester County
+08097
+Woodbury Heights
+Gloucester County
+08098
+Pilesgrove Township
+Salem County
+08098
+Pilesgrove
+Salem County
+08098
+Woodstown
+Salem County
+08099
+Bellmawr
+Camden County
+08201
+Absecon
+Atlantic County
+08202
+Avalon
+Cape May County
+08203
+Brigantine
+Atlantic County
+08204
+North Cape May
+Cape May County
+08204
+Cape May
+Cape May County
+08204
+West Cape May
+Cape May County
+08205
+Absecon
+Atlantic County
+08205
+Smithville
+Atlantic County
+08205
+Galloway
+Atlantic County
+08210
+Cape May C H
+Cape May County
+08210
+Cape May Court House
+Cape May County
+08212
+Cape May Point
+Cape May County
+08213
+Cologne
+Atlantic County
+08214
+Dennisville
+Cape May County
+08215
+Egg Harbor City
+Atlantic County
+08217
+Elwood
+Atlantic County
+08218
+Goshen
+Cape May County
+08219
+Green Creek
+Cape May County
+08220
+Leeds Point
+Atlantic County
+08221
+Linwood
+Atlantic County
+08223
+Marmora
+Cape May County
+08224
+New Gretna
+Burlington County
+08225
+Northfield
+Atlantic County
+08226
+Ocean City
+Cape May County
+08230
+Ocean View
+Cape May County
+08231
+Oceanville
+Atlantic County
+08232
+Mckee City
+Atlantic County
+08232
+Pleasantville
+Atlantic County
+08234
+Egg Harbor Township
+Atlantic County
+08240
+Pomona
+Atlantic County
+08241
+Port Republic
+Atlantic County
+08242
+Rio Grande
+Cape May County
+08243
+Townsends Inlet
+Cape May County
+08243
+Sea Isle City
+Cape May County
+08244
+Somers Point
+Atlantic County
+08245
+South Dennis
+Cape May County
+08246
+South Seaville
+Cape May County
+08247
+Stone Harbor
+Cape May County
+08248
+Strathmere
+Cape May County
+08250
+Tuckahoe
+Cape May County
+08251
+Del Haven
+Cape May County
+08251
+Villas
+Cape May County
+08252
+Whitesboro
+Cape May County
+08260
+North Wildwood
+Cape May County
+08260
+West Wildwood
+Cape May County
+08260
+Wildwood
+Cape May County
+08260
+Wildwood Crest
+Cape May County
+08270
+Corbin City
+Cape May County
+08270
+Woodbine
+Cape May County
+08302
+Seabrook
+Cumberland County
+08302
+Bridgeton
+Cumberland County
+08310
+Buena
+Atlantic County
+08311
+Cedarville
+Cumberland County
+08312
+Clayton
+Gloucester County
+08313
+Deerfield Street
+Cumberland County
+08314
+Delmont
+Cumberland County
+08315
+Dividing Creek
+Cumberland County
+08316
+Dorchester
+Cumberland County
+08317
+Dorothy
+Atlantic County
+08318
+Elmer
+Salem County
+08318
+Pittsgrove
+Salem County
+08319
+Estell Manor
+Atlantic County
+08320
+Fairton
+Cumberland County
+08321
+Fortescue
+Cumberland County
+08322
+Franklinville
+Gloucester County
+08323
+Greenwich
+Cumberland County
+08324
+Heislerville
+Cumberland County
+08326
+Landisville
+Atlantic County
+08327
+Leesburg
+Cumberland County
+08328
+Malaga
+Gloucester County
+08329
+Mauricetown
+Cumberland County
+08330
+Mays Landing
+Atlantic County
+08332
+Millville
+Cumberland County
+08340
+Milmay
+Atlantic County
+08341
+Minotola
+Atlantic County
+08342
+Mizpah
+Atlantic County
+08343
+Monroeville
+Gloucester County
+08344
+Newfield
+Gloucester County
+08345
+Newport
+Cumberland County
+08346
+Newtonville
+Atlantic County
+08347
+Norma
+Salem County
+08348
+Port Elizabeth
+Cumberland County
+08349
+Port Norris
+Cumberland County
+08350
+Richland
+Atlantic County
+08352
+Rosenhayn
+Cumberland County
+08353
+Shiloh
+Cumberland County
+08360
+Vineland
+Cumberland County
+08361
+Vineland
+Cumberland County
+08362
+Vineland
+Cumberland County
+08401
+Atlantic City
+Atlantic County
+08402
+Margate City
+Atlantic County
+08403
+Longport
+Atlantic County
+08404
+Atlantic City
+Atlantic County
+08406
+Ventnor City
+Atlantic County
+08501
+Allentown
+Monmouth County
+08502
+Belle Mead
+Somerset County
+08504
+Blawenburg
+Somerset County
+08505
+Bordentown
+Burlington County
+08510
+Clarksburg
+Monmouth County
+08511
+Cookstown
+Burlington County
+08512
+Cranbury
+Middlesex County
+08514
+Cream Ridge
+Monmouth County
+08515
+Crosswicks
+Burlington County
+08518
+Florence
+Burlington County
+08520
+East Windsor
+Mercer County
+08520
+Hightstown
+Mercer County
+08525
+Hopewell
+Mercer County
+08526
+Imlaystown
+Monmouth County
+08527
+Jackson
+Ocean County
+08528
+Kingston
+Somerset County
+08530
+Lambertville
+Hunterdon County
+08533
+New Egypt
+Ocean County
+08534
+Pennington
+Mercer County
+08535
+Perrineville
+Monmouth County
+08536
+Plainsboro
+Middlesex County
+08540
+Princeton
+Mercer County
+08542
+Princeton
+Mercer County
+08543
+Princeton
+Mercer County
+08550
+Princeton Junction
+Mercer County
+08550
+West Windsor
+Mercer County
+08551
+Ringoes
+Hunterdon County
+08553
+Rocky Hill
+Somerset County
+08554
+Roebling
+Burlington County
+08555
+Roosevelt
+Monmouth County
+08556
+Rosemont
+Hunterdon County
+08557
+Sergeantsville
+Hunterdon County
+08558
+Skillman
+Somerset County
+08559
+Stockton
+Hunterdon County
+08560
+Titusville
+Mercer County
+08561
+Windsor
+Mercer County
+08562
+Wrightstown
+Burlington County
+08601
+Trenton
+Mercer County
+08602
+Trenton
+Mercer County
+08603
+Trenton
+Mercer County
+08604
+Trenton
+Mercer County
+08605
+Trenton
+Mercer County
+08606
+Trenton
+Mercer County
+08607
+Trenton
+Mercer County
+08608
+Trenton
+Mercer County
+08609
+Hamilton
+Mercer County
+08609
+Trenton
+Mercer County
+08610
+Hamilton
+Mercer County
+08610
+Trenton
+Mercer County
+08611
+Hamilton
+Mercer County
+08611
+Trenton
+Mercer County
+08618
+Ewing
+Mercer County
+08618
+Trenton
+Mercer County
+08619
+Mercerville
+Mercer County
+08619
+Hamilton
+Mercer County
+08619
+Trenton
+Mercer County
+08620
+Yardville
+Mercer County
+08620
+Hamilton
+Mercer County
+08620
+Trenton
+Mercer County
+08625
+Trenton
+Mercer County
+08628
+West Trenton
+Mercer County
+08628
+Ewing
+Mercer County
+08628
+Trenton
+Mercer County
+08629
+Hamilton
+Mercer County
+08629
+Trenton
+Mercer County
+08638
+Ewing
+Mercer County
+08638
+Trenton
+Mercer County
+08640
+Fort Dix
+Burlington County
+08640
+Trenton
+Burlington County
+08641
+Mcguire Afb
+Burlington County
+08641
+Trenton
+Burlington County
+08648
+Lawrenceville
+Mercer County
+08648
+Trenton
+Mercer County
+08650
+Hamilton
+Mercer County
+08650
+Trenton
+Mercer County
+08690
+Hamilton Square
+Mercer County
+08690
+Hamilton
+Mercer County
+08690
+Trenton
+Mercer County
+08691
+Robbinsville
+Mercer County
+08691
+Hamilton
+Mercer County
+08691
+Trenton
+Mercer County
+08701
+Lakewood
+Ocean County
+08720
+Allenwood
+Monmouth County
+08721
+Bayville
+Ocean County
+08722
+Beachwood
+Ocean County
+08723
+Osbornsville
+Ocean County
+08723
+Brick
+Ocean County
+08724
+Brick
+Ocean County
+08730
+Brielle
+Monmouth County
+08731
+Forked River
+Ocean County
+08732
+Island Heights
+Ocean County
+08733
+Lakehurst Naec
+Ocean County
+08733
+Lakehurst
+Ocean County
+08734
+Lanoka Harbor
+Ocean County
+08735
+Lavallette
+Ocean County
+08736
+Manasquan
+Monmouth County
+08738
+Mantoloking
+Ocean County
+08739
+Normandy Beach
+Ocean County
+08740
+Ocean Gate
+Ocean County
+08741
+Pine Beach
+Ocean County
+08742
+Pt Pleasant
+Ocean County
+08742
+Bay Head
+Ocean County
+08742
+Point Pleasant
+Ocean County
+08742
+Point Pleasant Beach
+Ocean County
+08750
+Sea Girt
+Monmouth County
+08751
+Seaside Heights
+Ocean County
+08752
+Seaside Park
+Ocean County
+08753
+Toms River
+Ocean County
+08754
+Toms River
+Ocean County
+08755
+Toms River
+Ocean County
+08755
+Lakehurst
+Ocean County
+08756
+Toms River
+Ocean County
+08757
+Toms River
+Ocean County
+08758
+Waretown
+Ocean County
+08759
+Manchester Township
+Ocean County
+08759
+Whiting
+Ocean County
+08759
+Lakehurst
+Ocean County
+08759
+Manchester
+Ocean County
+08801
+Annandale
+Hunterdon County
+08802
+Pattenburg
+Hunterdon County
+08802
+Asbury
+Hunterdon County
+08803
+Baptistown
+Hunterdon County
+08804
+Bloomsbury
+Hunterdon County
+08805
+Bound Brook
+Somerset County
+08807
+Bridgewater
+Somerset County
+08808
+Broadway
+Warren County
+08809
+Clinton
+Hunterdon County
+08810
+Dayton
+Middlesex County
+08812
+Dunellen
+Middlesex County
+08812
+Green Brook
+Middlesex County
+08816
+East Brunswick
+Middlesex County
+08817
+Edison
+Middlesex County
+08818
+Edison
+Middlesex County
+08820
+Edison
+Middlesex County
+08821
+Flagtown
+Somerset County
+08822
+Flemington
+Hunterdon County
+08823
+Franklin Park
+Somerset County
+08824
+Kendall Park
+Middlesex County
+08825
+Frenchtown
+Hunterdon County
+08826
+Glen Gardner
+Hunterdon County
+08827
+Hampton
+Hunterdon County
+08828
+Helmetta
+Middlesex County
+08829
+High Bridge
+Hunterdon County
+08830
+Iselin
+Middlesex County
+08831
+Monroe Township
+Middlesex County
+08831
+Monroe Twp
+Middlesex County
+08831
+Jamesburg
+Middlesex County
+08831
+Monroe
+Middlesex County
+08832
+Keasbey
+Middlesex County
+08833
+Lebanon
+Hunterdon County
+08834
+Little York
+Hunterdon County
+08835
+Manville
+Somerset County
+08836
+Martinsville
+Somerset County
+08837
+Edison
+Middlesex County
+08840
+Metuchen
+Middlesex County
+08844
+Hillsborough
+Somerset County
+08846
+Middlesex
+Middlesex County
+08848
+Milford
+Hunterdon County
+08850
+Milltown
+Middlesex County
+08852
+Monmouth Junction
+Middlesex County
+08853
+Neshanic Sta
+Somerset County
+08854
+Piscataway
+Middlesex County
+08855
+Piscataway
+Middlesex County
+08857
+Old Bridge
+Middlesex County
+08858
+Oldwick
+Hunterdon County
+08859
+Parlin
+Middlesex County
+08861
+Perth Amboy
+Middlesex County
+08862
+Perth Amboy
+Middlesex County
+08863
+Fords
+Middlesex County
+08863
+Perth Amboy
+Middlesex County
+08865
+Alpha
+Warren County
+08865
+Phillipsburg
+Warren County
+08867
+Pittstown
+Hunterdon County
+08868
+Quakertown
+Hunterdon County
+08869
+Raritan
+Somerset County
+08870
+Readington
+Hunterdon County
+08871
+Sayreville
+Middlesex County
+08872
+Sayreville
+Middlesex County
+08873
+Somerset
+Somerset County
+08875
+East Millstone
+Somerset County
+08875
+Somerset
+Somerset County
+08876
+North Branch
+Somerset County
+08876
+Somerville
+Somerset County
+08879
+Laurence Harbor
+Middlesex County
+08879
+South Amboy
+Middlesex County
+08880
+South Bound Brook
+Somerset County
+08882
+South River
+Middlesex County
+08884
+Spotswood
+Middlesex County
+08885
+Stanton
+Hunterdon County
+08886
+Stewartsville
+Warren County
+08887
+Three Bridges
+Hunterdon County
+08888
+Whitehouse
+Hunterdon County
+08889
+Whitehouse
+Hunterdon County
+08890
+Zarephath
+Somerset County
+08899
+Edison
+Middlesex County
+18039
+Durham
+Bucks County
+18041
+East Greenville
+Montgomery County
+18054
+Green Lane
+Montgomery County
+18070
+Palm
+Montgomery County
+18073
+Pennsburg
+Montgomery County
+18073
+Red Hill
+Montgomery County
+18074
+Perkiomenville
+Montgomery County
+18076
+Red Hill
+Montgomery County
+18077
+Riegelsville
+Bucks County
+18081
+Springtown
+Bucks County
+18084
+Sumneytown
+Montgomery County
+18901
+Doylestown
+Bucks County
+18901
+New Britain
+Bucks County
+18910
+Bedminster
+Bucks County
+18911
+Blooming Glen
+Bucks County
+18912
+Buckingham
+Bucks County
+18913
+Carversville
+Bucks County
+18914
+Chalfont
+Bucks County
+18915
+Colmar
+Montgomery County
+18916
+Danboro
+Bucks County
+18917
+Dublin
+Bucks County
+18918
+Earlington
+Montgomery County
+18920
+Erwinna
+Bucks County
+18921
+Ferndale
+Bucks County
+18922
+Forest Grove
+Bucks County
+18923
+Fountainville
+Bucks County
+18924
+Franconia
+Montgomery County
+18925
+Furlong
+Bucks County
+18926
+Gardenville
+Bucks County
+18927
+Hilltown
+Bucks County
+18928
+Holicong
+Bucks County
+18929
+Jamison
+Bucks County
+18930
+Kintnersville
+Bucks County
+18931
+Lahaska
+Bucks County
+18932
+Line Lexington
+Bucks County
+18933
+Lumberville
+Bucks County
+18933
+Doylestown
+Bucks County
+18934
+Mechanicsville
+Bucks County
+18935
+Milford Square
+Bucks County
+18936
+Montgomeryville
+Montgomery County
+18938
+New Hope
+Bucks County
+18940
+George School
+Bucks County
+18940
+Newtown
+Bucks County
+18940
+Upper Makefield
+Bucks County
+18942
+Ottsville
+Bucks County
+18943
+Penns Park
+Bucks County
+18944
+Perkasie
+Bucks County
+18946
+Pineville
+Bucks County
+18947
+Pipersville
+Bucks County
+18949
+Plumsteadville
+Bucks County
+18950
+Point Pleasant
+Bucks County
+18951
+Quakertown
+Bucks County
+18953
+Revere
+Bucks County
+18954
+Richboro
+Bucks County
+18954
+Southampton
+Bucks County
+18955
+Richlandtown
+Bucks County
+18956
+Rushland
+Bucks County
+18957
+Salford
+Montgomery County
+18958
+Salfordville
+Montgomery County
+18960
+Sellersville
+Bucks County
+18962
+Silverdale
+Bucks County
+18963
+Solebury
+Bucks County
+18964
+Souderton
+Montgomery County
+18966
+Churchville
+Bucks County
+18966
+Holland
+Bucks County
+18966
+Southampton
+Bucks County
+18968
+Spinnerstown
+Bucks County
+18969
+Telford
+Montgomery County
+18970
+Trumbauersville
+Bucks County
+18971
+Tylersport
+Montgomery County
+18972
+Upper Black Eddy
+Bucks County
+18974
+Warminster
+Bucks County
+18976
+Warrington
+Bucks County
+18977
+Washington Xing
+Bucks County
+18977
+Washington Crossing
+Bucks County
+18979
+Woxall
+Montgomery County
+18980
+Wycombe
+Bucks County
+18981
+Zionhill
+Bucks County
+19001
+Abington
+Montgomery County
+19001
+Ogontz Campus
+Montgomery County
+19001
+Roslyn
+Montgomery County
+19002
+Ambler
+Montgomery County
+19002
+Maple Glen
+Montgomery County
+19002
+Lower Gwynedd
+Montgomery County
+19003
+Ardmore
+Montgomery County
+19004
+Belmont Hills
+Montgomery County
+19004
+Bala Cynwyd
+Montgomery County
+19006
+Huntingdon Valley
+Montgomery County
+19007
+Edgely
+Bucks County
+19007
+West Bristol
+Bucks County
+19007
+Bristol
+Bucks County
+19007
+Tullytown
+Bucks County
+19008
+Broomall
+Delaware County
+19009
+Bryn Athyn
+Montgomery County
+19010
+Bryn Mawr
+Delaware County
+19012
+Cheltenham
+Montgomery County
+19013
+Chester Township
+Delaware County
+19013
+Chester
+Delaware County
+19013
+Eddystone
+Delaware County
+19014
+Aston
+Delaware County
+19014
+Chester
+Delaware County
+19015
+Brookhaven
+Delaware County
+19015
+Chester
+Delaware County
+19016
+Chester
+Delaware County
+19017
+Chester Heights
+Delaware County
+19018
+Aldan
+Delaware County
+19018
+Primos
+Delaware County
+19018
+Primos Secane
+Delaware County
+19018
+Secane
+Delaware County
+19018
+Clifton Heights
+Delaware County
+19020
+Andalusia
+Bucks County
+19020
+Cornwells Heights
+Bucks County
+19020
+Eddington
+Bucks County
+19020
+Bensalem
+Bucks County
+19021
+Croydon
+Bucks County
+19021
+Bensalem
+Bucks County
+19022
+Crum Lynne
+Delaware County
+19022
+Chester
+Delaware County
+19022
+Eddystone
+Delaware County
+19023
+Collingdale
+Delaware County
+19023
+Darby
+Delaware County
+19025
+Dresher
+Montgomery County
+19026
+Pilgrim Gardens
+Delaware County
+19026
+Drexel Hill
+Delaware County
+19027
+Lamott
+Montgomery County
+19027
+Melrose
+Montgomery County
+19027
+Melrose Park
+Montgomery County
+19027
+Elkins Park
+Montgomery County
+19028
+Edgemont
+Delaware County
+19029
+Lester
+Delaware County
+19029
+Essington
+Delaware County
+19030
+Fairless Hills
+Bucks County
+19031
+Flourtown
+Montgomery County
+19032
+Folcroft
+Delaware County
+19033
+Folsom
+Delaware County
+19034
+Fort Washington
+Montgomery County
+19035
+Gladwyne
+Montgomery County
+19036
+Glenolden
+Delaware County
+19037
+Glen Riddle
+Delaware County
+19037
+Glen Riddle Lima
+Delaware County
+19037
+Lima
+Delaware County
+19038
+Erdenheim
+Montgomery County
+19038
+Laverock
+Montgomery County
+19038
+Wyndmoor
+Montgomery County
+19038
+Glenside
+Montgomery County
+19039
+Gradyville
+Delaware County
+19040
+Hatboro
+Montgomery County
+19041
+Haverford
+Montgomery County
+19043
+Holmes
+Delaware County
+19044
+Horsham
+Montgomery County
+19046
+Foxcroft Square
+Montgomery County
+19046
+Hollywood
+Montgomery County
+19046
+Meadowbrook
+Montgomery County
+19046
+Rydal
+Montgomery County
+19046
+Jenkintown
+Montgomery County
+19046
+Rockledge
+Montgomery County
+19047
+Upper Holland
+Bucks County
+19047
+Hulmeville
+Bucks County
+19047
+Langhorne
+Bucks County
+19047
+Penndel
+Bucks County
+19050
+East Lansdowne
+Delaware County
+19050
+Lansdowne
+Delaware County
+19050
+Yeadon
+Delaware County
+19052
+Lenni
+Delaware County
+19053
+Upper Holland
+Bucks County
+19053
+Oakford
+Bucks County
+19053
+Trevose
+Bucks County
+19053
+Feasterville Trevose
+Bucks County
+19053
+Langhorne
+Bucks County
+19054
+Fallsington
+Bucks County
+19054
+Levittown
+Bucks County
+19055
+Levittown
+Bucks County
+19056
+Newportville
+Bucks County
+19056
+Levittown
+Bucks County
+19057
+Levittown
+Bucks County
+19058
+Levittown
+Bucks County
+19059
+Levittown
+Bucks County
+19061
+Boothwyn
+Delaware County
+19061
+Linwood
+Delaware County
+19061
+Ogden
+Delaware County
+19061
+Marcus Hook
+Delaware County
+19061
+Trainer
+Delaware County
+19063
+Glen Riddle
+Delaware County
+19063
+Elwyn
+Delaware County
+19063
+Garden City
+Delaware County
+19063
+Media
+Delaware County
+19063
+Rose Valley
+Delaware County
+19064
+Springfield
+Delaware County
+19065
+Moylan
+Delaware County
+19065
+Media
+Delaware County
+19066
+Merion Station
+Montgomery County
+19067
+Morrisville
+Bucks County
+19067
+Yardley
+Bucks County
+19070
+Morton
+Delaware County
+19072
+Narberth
+Montgomery County
+19073
+Newtown Square
+Delaware County
+19074
+Norwood
+Delaware County
+19075
+Oreland
+Montgomery County
+19076
+Prospect Park
+Delaware County
+19078
+Ridley Park
+Delaware County
+19079
+Sharon Hill
+Delaware County
+19081
+Swarthmore
+Delaware County
+19082
+Upper Darby
+Delaware County
+19083
+Manoa
+Delaware County
+19083
+Havertown
+Delaware County
+19085
+Villanova
+Delaware County
+19086
+Wallingford
+Delaware County
+19086
+Rose Valley
+Delaware County
+19087
+Chesterbrook
+Delaware County
+19087
+St. Davids
+Delaware County
+19087
+Strafford
+Delaware County
+19087
+Radnor
+Delaware County
+19087
+Wayne
+Delaware County
+19090
+Willow Grove
+Montgomery County
+19094
+Woodlyn
+Delaware County
+19095
+Wyncote
+Montgomery County
+19096
+Wynnewood
+Montgomery County
+19113
+Philadelphia
+Delaware County
+19301
+Paoli
+Chester County
+19310
+Atglen
+Chester County
+19311
+Avondale
+Chester County
+19312
+Berwyn
+Chester County
+19312
+Tredyffrin
+Chester County
+19316
+Brandamore
+Chester County
+19317
+Chadds Ford
+Delaware County
+19318
+Chatham
+Chester County
+19319
+Cheyney
+Delaware County
+19320
+Valley Township
+Chester County
+19320
+Coatesville
+Chester County
+19330
+Cochranville
+Chester County
+19331
+Concordville
+Delaware County
+19333
+Devon
+Chester County
+19335
+Downingtown
+Chester County
+19341
+Exton
+Chester County
+19342
+Glen Mills
+Delaware County
+19343
+Glenmoore
+Chester County
+19344
+Honey Brook
+Chester County
+19345
+Immaculata
+Chester County
+19346
+Kelton
+Chester County
+19347
+Kemblesville
+Chester County
+19348
+Kennett Square
+Chester County
+19350
+Landenberg
+Chester County
+19351
+Lewisville
+Chester County
+19352
+Lincoln University
+Chester County
+19353
+Lionville
+Chester County
+19353
+Exton
+Chester County
+19354
+Lyndell
+Chester County
+19355
+Frazer
+Chester County
+19355
+Malvern
+Chester County
+19357
+Mendenhall
+Chester County
+19358
+Modena
+Chester County
+19360
+New London
+Chester County
+19362
+Nottingham
+Chester County
+19363
+Oxford
+Chester County
+19365
+Parkesburg
+Chester County
+19366
+Pocopson
+Chester County
+19367
+Pomeroy
+Chester County
+19369
+Sadsburyville
+Chester County
+19370
+Steelville
+Chester County
+19371
+Suplee
+Chester County
+19372
+Thorndale
+Chester County
+19372
+Downingtown
+Chester County
+19373
+Thornton
+Delaware County
+19374
+Toughkenamon
+Chester County
+19375
+Unionville
+Chester County
+19376
+Wagontown
+Chester County
+19380
+West Chester
+Chester County
+19381
+West Chester
+Chester County
+19382
+West Chester
+Chester County
+19390
+West Grove
+Chester County
+19395
+Westtown
+Chester County
+19397
+Southeastern
+Chester County
+19398
+Southeastern
+Chester County
+19399
+Southeastern
+Chester County
+19401
+Norristown
+Montgomery County
+19403
+Audubon
+Montgomery County
+19403
+Eagleville
+Montgomery County
+19403
+Jeffersonville
+Montgomery County
+19403
+Norristown
+Montgomery County
+19404
+Norristown
+Montgomery County
+19405
+Bridgeport
+Montgomery County
+19405
+Norristown
+Montgomery County
+19406
+King Of Prussia
+Montgomery County
+19406
+Norristown
+Montgomery County
+19407
+Audubon
+Montgomery County
+19407
+Norristown
+Montgomery County
+19408
+Eagleville
+Montgomery County
+19408
+Norristown
+Montgomery County
+19409
+Fairview Village
+Montgomery County
+19409
+Norristown
+Montgomery County
+19420
+Arcola
+Montgomery County
+19421
+Birchrunville
+Chester County
+19422
+Center Square
+Montgomery County
+19422
+Penllyn
+Montgomery County
+19422
+Blue Bell
+Montgomery County
+19423
+Cedars
+Montgomery County
+19425
+Chester Springs
+Chester County
+19426
+Collegeville
+Montgomery County
+19428
+Conshohocken
+Montgomery County
+19428
+West Conshohocken
+Montgomery County
+19430
+Creamery
+Montgomery County
+19432
+Devault
+Chester County
+19435
+Frederick
+Montgomery County
+19436
+Gwynedd
+Montgomery County
+19436
+North Wales
+Montgomery County
+19437
+Gwynedd Valley
+Montgomery County
+19438
+Harleysville
+Montgomery County
+19440
+Hatfield
+Montgomery County
+19442
+Kimberton
+Chester County
+19443
+Kulpsville
+Montgomery County
+19444
+Lafayette Hill
+Montgomery County
+19446
+Lansdale
+Montgomery County
+19450
+Lederach
+Montgomery County
+19451
+Mainland
+Montgomery County
+19452
+Miquon
+Montgomery County
+19453
+Mont Clare
+Montgomery County
+19453
+Phoenixville
+Montgomery County
+19454
+North Wales
+Montgomery County
+19456
+Oaks
+Montgomery County
+19457
+Parker Ford
+Chester County
+19460
+Phoenixville
+Chester County
+19462
+Plymouth Meeting
+Montgomery County
+19464
+Sanatoga
+Montgomery County
+19464
+Pottstown
+Montgomery County
+19464
+Stowe
+Montgomery County
+19465
+Pottstown
+Chester County
+19468
+Linfield
+Montgomery County
+19468
+Limerick
+Montgomery County
+19468
+Royersford
+Montgomery County
+19470
+St. Petersburg
+Chester County
+19472
+Sassamansville
+Montgomery County
+19473
+Collegeville
+Montgomery County
+19473
+Schwenksville
+Montgomery County
+19474
+Skippack
+Montgomery County
+19475
+Spring City
+Chester County
+19477
+Spring House
+Montgomery County
+19477
+North Wales
+Montgomery County
+19478
+Spring Mount
+Montgomery County
+19480
+Uwchland
+Chester County
+19481
+Valley Forge
+Chester County
+19482
+Valley Forge
+Chester County
+19484
+Valley Forge
+Montgomery County
+19485
+Valley Forge
+Montgomery County
+19486
+West Point
+Montgomery County
+19490
+Worcester
+Montgomery County
+19492
+Zieglersville
+Montgomery County
+19492
+Zieglerville
+Montgomery County
+19505
+Bechtelsville
+Montgomery County
+19520
+Elverson
+Chester County
+19525
+Gilbertsville
+Montgomery County
+19601
+Reading
+Berks County
+19602
+Reading
+Berks County
+19603
+Reading
+Berks County
+19604
+Reading
+Berks County
+19605
+Laureldale
+Berks County
+19605
+Reading
+Berks County
+19606
+Reading Station
+Berks County
+19606
+Mount Penn
+Berks County
+19606
+Reading
+Berks County
+19607
+Reading
+Berks County
+19607
+Shillington
+Berks County
+19608
+Reading
+Berks County
+19608
+Sinking Spring
+Berks County
+19609
+Reading
+Berks County
+19609
+West Lawn
+Berks County
+19610
+Reading
+Berks County
+19610
+Wyomissing
+Berks County
+19611
+Reading
+Berks County
+19611
+West Reading
+Berks County
+19612
+Reading
+Berks County
+19701
+Bear
+New Castle County
+19702
+Christiana
+New Castle County
+19702
+Newark
+New Castle County
+19703
+Claymont
+New Castle County
+19706
+Delaware City
+New Castle County
+19707
+Hockessin
+New Castle County
+19708
+Kirkwood
+New Castle County
+19709
+Middletown
+New Castle County
+19710
+Montchanin
+New Castle County
+19711
+Newark
+New Castle County
+19713
+Newark
+New Castle County
+19714
+Newark
+New Castle County
+19715
+Newark
+New Castle County
+19716
+Newark
+New Castle County
+19717
+Newark
+New Castle County
+19720
+Manor
+New Castle County
+19720
+New Castle
+New Castle County
+19730
+Odessa
+New Castle County
+19731
+Port Penn
+New Castle County
+19732
+Rockland
+New Castle County
+19733
+St. Georges
+New Castle County
+19734
+Townsend
+New Castle County
+19735
+Winterthur
+New Castle County
+19736
+Yorklyn
+New Castle County
+19801
+Wilmington
+New Castle County
+19802
+Wilmington
+New Castle County
+19803
+Talleyville
+New Castle County
+19803
+Wilmington
+New Castle County
+19804
+Stanton
+New Castle County
+19804
+Newport
+New Castle County
+19804
+Wilmington
+New Castle County
+19805
+Elsmere
+New Castle County
+19805
+Wilmington
+New Castle County
+19806
+Wilmington
+New Castle County
+19807
+Greenville
+New Castle County
+19807
+Wilmington
+New Castle County
+19808
+Marshallton
+New Castle County
+19808
+Wilmington
+New Castle County
+19809
+Edgemoor
+New Castle County
+19809
+Wilmington
+New Castle County
+19810
+Edgemoor
+New Castle County
+19810
+Wilmington
+New Castle County
+19850
+Wilmington
+New Castle County
+19880
+Wilmington
+New Castle County
+19899
+Wilmington
+New Castle County
+19901
+Dover
+Kent County
+19901
+Leipsic
+Kent County
+19902
+Dover Air Force Base
+Kent County
+19902
+Dover Afb
+Kent County
+19902
+Dover
+Kent County
+19903
+Dover
+Kent County
+19904
+Dover
+Kent County
+19905
+Dover
+Kent County
+19906
+Dover
+Kent County
+19930
+Bethany Beach
+Sussex County
+19931
+Bethel
+Sussex County
+19933
+Bridgeville
+Sussex County
+19934
+Camden Wyoming
+Kent County
+19936
+Cheswold
+Kent County
+19938
+Clayton
+Kent County
+19939
+Dagsboro
+Sussex County
+19940
+Delmar
+Sussex County
+19941
+Ellendale
+Sussex County
+19943
+Felton
+Kent County
+19944
+Fenwick Island
+Sussex County
+19944
+Selbyville
+Sussex County
+19945
+Frankford
+Sussex County
+19946
+Frederica
+Kent County
+19947
+Georgetown
+Sussex County
+19950
+Farmington
+Sussex County
+19950
+Greenwood
+Sussex County
+19951
+Harbeson
+Sussex County
+19952
+Harrington
+Kent County
+19953
+Hartly
+Kent County
+19954
+Houston
+Kent County
+19955
+Kenton
+Kent County
+19956
+Laurel
+Sussex County
+19958
+Lewes
+Sussex County
+19960
+Lincoln
+Sussex County
+19961
+Little Creek
+Kent County
+19962
+Magnolia
+Kent County
+19963
+Milford
+Sussex County
+19964
+Marydel
+Kent County
+19966
+Long Neck
+Sussex County
+19966
+Millsboro
+Sussex County
+19967
+Millville
+Sussex County
+19967
+Ocean View
+Sussex County
+19968
+Milton
+Sussex County
+19969
+Nassau
+Sussex County
+19970
+Clarksville
+Sussex County
+19970
+Millville
+Sussex County
+19970
+Ocean View
+Sussex County
+19971
+Dewey Beach
+Sussex County
+19971
+Rehoboth Beach
+Sussex County
+19973
+Blades
+Sussex County
+19973
+Seaford
+Sussex County
+19975
+Selbyville
+Sussex County
+19977
+Smyrna
+Kent County
+19979
+Viola
+Kent County
+19980
+Woodside
+Kent County

@@ -1,0 +1,35 @@
+/* Anton Adamovich
+*  Prof. Charles Herbert - CSCI-112 - Community College of Philadelphia (CCP)
+*  Created: 5-2-2017 - Last Edited: 5-5-2017
+*  Assignment 8
+*  Description: Style sheet for PressureUnitConverter.java JavaFX application
+*  Resources:
+*   Oracle Java FX Tutorials and Documentation:
+*   http://docs.oracle.com/javase/8/javafx/get-started-tutorial/get_start_apps.htm
+*/
+
+.root {
+     -fx-background-color: #E0E0E0;
+}
+
+.label{
+    -fx-font-size: 14px;
+    -fx-font-weight: normal;
+    -fx-text-fill: black;
+}
+
+#title{
+    -fx-font-size: 20px;
+    -fx-font-family: "Times New Roman";
+    -fx-fill: #404040;
+    -fx-effect: dropshadow(gaussian, rgba(150, 150, 150, 0.5), 0, 0, 0, 1); 
+}
+
+.button {
+    -fx-text-fill: #202020;
+    -fx-font-family: "Times New Roman";
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#A0A0A0, #606060);
+}
